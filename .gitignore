@@ -1,0 +1,9 @@
+# per-device / noisy files
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+# Obsidian Git settings are per device (auth, intervals)
+.obsidian/plugins/obsidian-git/data.json
+.DS_Store
+Thumbs.db

@@ -1,0 +1,5 @@
+// Syncthing ignore patterns (this file is NOT synced; copy these into the phone's folder Ignore Patterns)
+.git
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash
