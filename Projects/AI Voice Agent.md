@@ -10,4 +10,7 @@ An outbound AI Voice calling agent. Which can actually talk to leads.
 - [ ] 
 
 ## Log
+TTS, STT Cartesia
+Pipekit framework,
+
 
