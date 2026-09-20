@@ -5,7 +5,7 @@ created: 2026-09-19T17:27:00
 ---
 ## Goal
 
-This portal will enable users to report any type of complaint and then segregate them and redirect to the actual intented portal made by the government.
+This portal will enable users to report any type of complaint and then segregate them and redirect to the actual intended portal made by the government.
 ## Next actions
 - [ ] 
 
