@@ -7,6 +7,11 @@
      - Access to the existing codebase.
      - What are the current costs incurred like they already use razorpay, have a active server, google cloud storage and all related things
      - Details of the persons involved in the fleet management 
-    Now in this the scope of work should be defined. There should be a breakdown of the development tasks and no of days, required to complete the task (on a scale of total timeline being 8 weeks + 2 margin weeks), Pricing (total consider 1 lac, 15k wi)
+- Now in this the scope of work should be defined. There should be a breakdown of the development tasks and no of days, required to complete the task (on a scale of total timeline being 8 weeks + 2 margin weeks), Pricing (total consider 1 lac, 15k will be a waiver), so that the client may get a idea of what is happening.
+- This should include checkpoints, like after this much of work done we will be having a meeting with the client to discuss progress and improvements required.
+  On each checkpoint some amount will be disbursed in the bunch of 25k, First 25 will be taken as advance.
+  
+This is all should be very much visually appealing, easily and visually undersstandable and connectable, client should be able to visually connect, flowcharts, mindmaps, workflows, demos, etc.     
+     
    
 2. 
