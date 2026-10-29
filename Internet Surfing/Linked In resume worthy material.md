@@ -9,11 +9,11 @@ IoT & Cloud Middleware: Designed and implemented a multi-threaded middleware ser
 
 Washer-Dryer BLE Communication: Engineered a low-level BLE communication module enabling reliable bidirectional data exchange between washer and dryer systems, with robust connection handling and automatic recovery.
 
+Al Control Module: Designed a multi-threaded device-cloud inference pipeline for processing sensor data and generating real-time recommendations, enabling predictive drying-time optimization.
 
-- Strengthened TizenRT memory management by engineering a quarantine buffer mechanism in the dynamic memory allocator (os/mm), delaying freed chunk reuse to reliably detect Use-After-Free (UAF) bugs and mitigate runtime corruption.
+7" LCD EHS UI Architecture: Owned end-to-end Ul architecture Samsung's first Chiller HVAC system for enterprises, a platform that has since shipped across 20+ global markets including South Korea, the U.S., and Europe.
 
-- Architected an automated string-encoding framework and real-time UART parser, reducing the firmware binary size by 50% and optimizing serial log bandwidth during embedded debugging.
+Common Settings microservice
 
- • Engineered a comprehensive scenario-based verification framework for TizenRT’s Round-Robin scheduler on SMP architectures, validating multi-core fairness, CPU affinity invariants, and starvation edge cases to resolve system hangs and deadlocks.
 
 
