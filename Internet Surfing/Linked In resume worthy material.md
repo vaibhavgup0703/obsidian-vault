@@ -5,15 +5,15 @@ swc proffesional qualified
 
 
 
-IoT & Cloud Middleware: Designed and implemented a multi-threaded middleware service in C on Embedded Linux/Tizen to synchronize device state with the Samsung SmartThings cloud, enabling real-time bidirectional communication with <200ms latency. Optimized concurrency, resource allocation, and system performance across 40+ device attributes.
+- IoT & Cloud Middleware: Designed and implemented a multi-threaded middleware service in C on Embedded Linux/Tizen to synchronize device state with the Samsung SmartThings cloud, enabling real-time bidirectional communication with <200ms latency. Optimized concurrency, resource allocation, and system performance across 40+ device attributes.
 
-Washer-Dryer BLE Communication: Engineered a low-level BLE communication module enabling reliable bidirectional data exchange between washer and dryer systems, with robust connection handling and automatic recovery.
+- Washer-Dryer BLE Communication: Engineered a low-level BLE communication module enabling reliable bidirectional data exchange between washer and dryer systems, with robust connection handling and automatic recovery.
 
-Al Control Module: Designed a multi-threaded device-cloud inference pipeline for processing sensor data and generating real-time recommendations, enabling predictive drying-time optimization.
+- Al Control Module: Designed a multi-threaded device-cloud inference pipeline for processing sensor data and generating real-time recommendations, enabling predictive drying-time optimization.
 
-7" LCD EHS UI Architecture: Owned end-to-end Ul architecture Samsung's first Chiller HVAC system for enterprises, minimized the rendering latency by implementing low-latency rendering algorithms, connected NASA protocol and HVAC server for real time schedules.
+- 7" LCD EHS UI Architecture: Owned end-to-end Ul architecture Samsung's first Chiller HVAC system for enterprises, minimized the rendering latency by implementing low-latency rendering algorithms, connected NASA protocol and HVAC server for real time schedules.
 
-Common Settinngs Application Inteface: Owned end to end functionality of TTS moude, implented a microservice for memory optimization, that involved to fetch the TTS package from storeclient server for a particular language, which is released in the Tizen NUI 10.1 across the global market of US, Korea and Europe.
+- Common Settinngs Application Inteface: Owned end to end functionality of TTS moude, implented a microservice for memory optimization, that involved to fetch the TTS package from storeclient server for a particular language, which is released in the Tizen NUI 10.1 across the global market of US, Korea and Europe.
 
 
 
