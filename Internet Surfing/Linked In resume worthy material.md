@@ -13,6 +13,8 @@ Al Control Module: Designed a multi-threaded device-cloud inference pipeline for
 
 7" LCD EHS UI Architecture: Owned end-to-end Ul architecture Samsung's first Chiller HVAC system for enterprises, minimized the rendering latency by implementing low-latency rendering algorithms, connected NASA protocol and HVAC server for real time schedules.
 
+Common Settinngs Application Inteface: Owned end to end functionality of TTS moude, implented a microservice for memory optimization, that involved to fetch the TTS package from storeclient server for a pe
+
 
 
 Common Settings microservice
