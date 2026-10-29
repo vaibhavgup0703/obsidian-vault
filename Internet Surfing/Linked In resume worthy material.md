@@ -11,7 +11,9 @@ Washer-Dryer BLE Communication: Engineered a low-level BLE communication module 
 
 Al Control Module: Designed a multi-threaded device-cloud inference pipeline for processing sensor data and generating real-time recommendations, enabling predictive drying-time optimization.
 
-7" LCD EHS UI Architecture: Owned end-to-end Ul architecture Samsung's first Chiller HVAC system for enterprises, a platform that has since shipped across 20+ global markets including South Korea, the U.S., and Europe.
+7" LCD EHS UI Architecture: Owned end-to-end Ul architecture Samsung's first Chiller HVAC system for enterprises, minimized the rendering latency by implementing low-latency rendering algorithms, connected NASA protocol and HVAC server for real time schedules.
+
+
 
 Common Settings microservice
 
