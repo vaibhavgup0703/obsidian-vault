@@ -5,7 +5,7 @@ swc proffesional qualified
 
 
 
-- IoT & Cloud Middleware: Designed and implemented a multi-threaded middleware service in C on Embedded Linux/Tizen to synchronize device state with the Samsung SmartThings cloud, enabling real-time bidirectional communication with <200ms latency. Optimized concurrency, resource allocation, and system performance across 40+ device attributes.
+	- IoT & Cloud Middleware: Designed and implemented a multi-threaded middleware service in C on Embedded Linux/Tizen to synchronize device state with the Samsung SmartThings cloud, enabling real-time bidirectional communication with <200ms latency. Optimized concurrency, resource allocation, and system performance across 40+ device attributes.
 
 - Washer-Dryer BLE Communication: Engineered a low-level BLE communication module enabling reliable bidirectional data exchange between washer and dryer systems, with robust connection handling and automatic recovery.
 
