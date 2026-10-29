@@ -9,9 +9,7 @@ IoT & Cloud Middleware: Designed and implemented a multi-threaded middleware ser
 
 Washer-Dryer BLE Communication: Engineered a low-level BLE communication module enabling reliable bidirectional data exchange between washer and dryer systems, with robust connection handling and automatic recovery.
 
-Optimal Scheduling: Built scheduling algorithms for delay-start operations (up to 24 hours) using cost intervals and user preferences, improving energy efficiency and enabling smart energy-optimization features showcased at IFA 2024.
 
-TCP/UDP Communication (HASS): Developed system-level features for Home Appliance Smart Service (HASS) in C on Linux, using TCP/UDP socket programming to enable reliable, low-latency communication between devices and cloud services. Improved throughput and connection stability through optimized packet handling and connection management.
 
 
 Architected an automated string-encoding framework and real-time UART parser, reducing the firmware binary size by 50% and optimizing serial log bandwidth during embedded debugging. • Engineered a comprehensive scenario-based verification framework for TizenRT’s Round-Robin scheduler on SMP architectures, validating multi-core fairness, CPU affinity invariants, and starvation edge cases to resolve system hangs and deadlocks.
