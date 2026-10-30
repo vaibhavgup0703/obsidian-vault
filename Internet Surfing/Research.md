@@ -1,4 +1,4 @@
-Act as a senior recruiter/hiring manager for the exact role and company in the uploaded JD. Analyze my resume against the JD and give me a match score/100, top 5 missing keywords, top 3 ten-second red flags, key experience gaps, and 5 highest-impact changes to maximize my ATS score and interview chances.
+Act as a senior recruiter/hiring manager for the current tech market, IT industry and AI Startup and companies. Analyze my resume against the market and give me a match score/100, top 5 missing keywords, top 3 ten-second red flags, key experience gaps, and 5 highest-impact changes to maximize my ATS score and interview chances.
 
 Using the resume, JD, and feedback already provided, create a new, submission-ready resume for this role using the TEAL framework. Maximize ATS compatibility and recruiter impact by prioritizing relevant experience, matching JD keywords naturally, emphasizing measurable achievements, removing distractions, and never fabricating anything
 
