@@ -6,6 +6,7 @@ date:
 ## Goal
 An outbound AI Voice calling agent. Which can actually talk to leads.
 
+![[Pasted image 20261031185309.png]]
 # Architecture
 dynamic-outbound-voice-agent/
 ├── run_local.py        ← front door 1: your mic and speakers
