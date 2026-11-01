@@ -5,6 +5,7 @@ date:
 ---
 ## Goal
 An outbound AI Voice calling agent. Which can actually talk to leads.
+![[Pasted image 20261101123026.png]]
     
 ![[Pasted image 20261031185309.png]]
 # Architecture
