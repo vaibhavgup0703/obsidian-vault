@@ -3,7 +3,9 @@ type: project
 status: active
 date:
 ---
-
+Voicelink Telephony
+username: goyalvaibhav633
+Password: Vaibhav@krakex1
 ## What Vaani is
 
 A multi-tenant outbound Hindi/Hinglish AI voice sales agent (India-first). First tenant: Gupta Wire (wire and cable manufacturer calling dealers). The business is data (`tenants/<id>/config.json`), not code.
